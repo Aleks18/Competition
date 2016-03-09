@@ -1,0 +1,83 @@
+<html>
+<!DOCTYPE html>
+<head>
+  <link href="/normalize.css" rel="stylesheet">
+  <LINK REL=StyleSheet HREF="style.css" TYPE="text/css" MEDIA=screen>
+  <link href='https://fonts.googleapis.com/css?family=Exo' rel='stylesheet' type='text/css'>
+  <style>
+    header {
+      
+      text-align: center;
+      background-image: url("https://jacquierobinsonphotography.files.wordpress.com/2013/06/pretty-night-sky-428.jpg");
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      color: white;
+      border-radius: 15px;
+    }
+    a {
+      color: blue;
+    }
+    h1 {
+      font-size: 50px;
+      padding-top: 40px;
+      font-family: 'Exo', sans-serif;
+    }
+    h2  {
+      font-size: 25px;
+      font-family: 'Exo', sans-serif;
+    }
+    p {
+      font-size: 15px;
+      font-family: 'Exo', sans-serif;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 40px;
+    }
+    ul {
+      font-family: 'Exo', sans-serif;
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+      }
+      li {
+        display: block;
+        padding: 5px;
+      }
+
+    }
+  </style>
+</head>
+<body bgcolor="#D1D0CE">
+  <header>
+    <h1>Carpe Noctem</h1>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Latest</a></li>
+      <li><a href="#">Big Questions</a></li>
+      <li><a href="#">Infographics</a></li>
+      <li><a href="#">Milestones</a></li>
+      <li><a href="#">Quick Facts</a></li>
+    </ul>
+  </header>
+  <article>
+  <h2>Cherenkov Radiation-Beauty behind nuclear reactions</h2>
+  <p>Nuclear reactions are rarely considered beautiful as they are (rightfully) considered as a weapon of mass destruction. All of us know seen their destructive power through history books on Nagasaki &#38; Hiroshima, as well as more recent events in Fukushima. However there is certain beauty to the reactions that take place in such bombs. //</p>
+  <p>Before we get to nuclear part, at first we have to undestand few things about propagation of waves and what happens when object is travelling faster than them. Of course we are talking about the <it>sonic boom</it>.
+  </article>
+  
+  
+</body>
